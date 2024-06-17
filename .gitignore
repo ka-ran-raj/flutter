@@ -1,0 +1,36 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.podspec.json
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcarchive/
+ios/Pods/
+pubspec.lock
+# Android related
+.gradle/
+.gradle/caches/
+.gradle/daemon/
+.gradle/wrapper/
+.gradletaskname.lock
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/src/debug/
+android/app/src/profile/
+android/.externalNativeBuild/
+android/build/
+android/app/build/
+android/app/src/main/jniLibs/
+# Package files
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
